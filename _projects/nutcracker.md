@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: A mechanical lever-arm design to amplify force for nut cracking.
 technologies: [Mechanical Design, Statics, Sketching]
-image: /assets/images/nutcracker-design.jpg
+image: /assets/images/Screenshot 2026-03-03 225746.png
 ---
 
 
