@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Yiksan Yu
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
+name                     : Yiksan
 description              : Your Name - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
