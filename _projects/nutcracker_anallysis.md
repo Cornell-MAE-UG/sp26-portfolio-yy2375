@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Beam Analysis
 description: A mass-efficient structural design analyzing elastic deflection under 490lb point loads.
-technologies: [Structural Analysis, Beam Theory, 6061-T6 Aluminum]
+
 image: /assets/images/nutcracker-design.jpg
 ---
 
@@ -35,7 +35,7 @@ $$I = \frac{(490)(2^2)(2+2.2)}{3(11.2 \times 10^6)(0.044)} \approx 0.00558 \text
 
 To maximize mass efficiency, I-beam configuration was selected over a solid bar to distribute material further from the neutral axis.
 
-![Final Design Drawing]({{ "IMG_6234.jp3g" | relative_url }}){: class="profile-image"}
+![Final Design Drawing]({{ "IMG_6234.jpeg" | relative_url }}){: class="profile-image"}
 
 5. Discussion on Usability:
 By moving beyond the "rigid body" assumption, this design ensures the nutcracker remains functional without permanent deformation or excessive "springiness" that would waste the actuator's energy. Selecting a 0.75" OD Aluminum tube with a 0.065" wall thickness provides an $I$ of $0.0084 \text{ in}^4$. This exceeds the minimum requirement while significantly reducing the total mass of the assembly compared to a solid steel rod. This optimization makes the device lighter and more efficient for tabletop use while guaranteeing it can withstand the 490 lb force required to crack the nut.
