@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Beam Analysis
 description: A mass-efficient structural design analyzing elastic deflection under 490lb point loads.
 
-image: /assets/images/nutcracker-design.jpg
+image: /assets/images/Screenshot 2026-03-03 225746.png
 ---
 
 ![Problem]({{ "/assets/images/IMG_6232.jpeg" | relative_url }})
